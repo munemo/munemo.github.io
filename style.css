@@ -1,11 +1,7 @@
 h1 {
-    color: #0066ff
+    color: #0066ff;
+    text-align: center;
    }
-
-  h1 {
-        text-align: center;
-  }
-
 
   ul {
     list-style-type: none;
