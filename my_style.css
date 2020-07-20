@@ -1,9 +1,6 @@
 h1 {
      text-align: center;
      text-shadow: 2px 2px;
-p.impact {
-  font-family: Impact, Charcoal, sans-serif;
-}
    }
 
    ul {
@@ -29,6 +26,5 @@ p.impact {
     h2
     {
       text-align: center;
-      text-shadow: 2px 2px;
-   }
+      
     }
