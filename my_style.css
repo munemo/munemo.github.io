@@ -1,6 +1,7 @@
 h1 {
      text-align: center;
-     text-shadow: 2px 2px;
+     color: blue;
+     
    }
 
    ul {
@@ -26,5 +27,11 @@ h1 {
     h2
     {
       text-align: center;
-      
+      color: blue; 
+    }
+
+    .myDiv {
+      border: 2px outset gray;
+      background-color: lightblue;    
+      text-align: center;
     }
