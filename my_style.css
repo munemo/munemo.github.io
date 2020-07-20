@@ -36,3 +36,8 @@ h1 {
   li a:hover {
     background-color: #111;
   }
+
+  .center {
+    text-align: center;
+    border: 3px solid green;
+  }
