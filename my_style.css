@@ -1,5 +1,6 @@
 h1 {
      text-align: center;
+     text-shadow: 2px 2px;
    }
 
    ul {
@@ -22,7 +23,7 @@ h1 {
       body {
         background-color: lightblue;
       }
-    p
+    h2
     {
       text-align: center;
     }
