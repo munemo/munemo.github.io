@@ -35,3 +35,14 @@ h1 {
       background-color: lightblue;    
       text-align: center;
     }
+
+    img {
+      border-radius: 8px;
+      image-resolution: 30;
+      align-self: center;
+    }
+
+    p {
+
+      text-align: center;
+    }
